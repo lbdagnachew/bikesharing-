@@ -1,1 +1,3 @@
-# bikesharing-
+# bikesharing
+
+For this project we worked with data visualization software called Tableau to present a business proposal for a bike-sharing company. First, we learned how to import, style, and portray data accurately. Then, we created worksheets, dashboards, and stories to visualize key data from a New York Citi Bike dataset. The final part of the project  is to use the information from CitiBike in NYC to persuade investors to back a similar program in Des Moines, Iowa. Using this information we pulled together visualizations that show who uses the bikes, where they are most likely to use them, how frequently certain bike were used, and what the peak hours were for use and repair.
